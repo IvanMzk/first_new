@@ -12,5 +12,7 @@ public class CMain {
             System.out.printf("%d parameters passed", argv.length);
         }
         else{System.out.println("No arguments were passed");}
+
+        //developing other test func
     }
 }
